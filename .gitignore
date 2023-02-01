@@ -5,5 +5,9 @@ cifar-100-python/test
 cifar-100-python/meta
 cifar-100-python/file.txt~
 
+train.lst
+test.lst
 train/
 test/
+
+lambda-python3.8/
