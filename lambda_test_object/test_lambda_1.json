@@ -1,0 +1,30 @@
+{
+    "image_data": "",
+    "s3_bucket": "sagemaker-scones-unlimited",
+    "s3_key": "test/bicycle_s_000513.png"
+},
+{
+    "image_data": "",
+    "s3_bucket": "sagemaker-scones-unlimited",
+    "s3_key": "test/cycle_s_002305.png"
+},
+{
+    "image_data": "",
+    "s3_bucket": "sagemaker-scones-unlimited",
+    "s3_key": "test/bicycle_s_000779.png"
+},
+{
+    "image_data": "",
+    "s3_bucket": "sagemaker-scones-unlimited",
+    "s3_key": "test/bicycle_s_001218.png"
+},
+{
+    "image_data": "",
+    "s3_bucket": "sagemaker-scones-unlimited",
+    "s3_key": "test/motorcycle_s_000494.png"
+},
+{
+    "image_data": "",
+    "s3_bucket": "sagemaker-scones-unlimited",
+    "s3_key": "test/motorcycle_s_001955.png"
+}
